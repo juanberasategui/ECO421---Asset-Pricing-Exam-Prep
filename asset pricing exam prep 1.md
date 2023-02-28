@@ -1,7 +1,4 @@
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(eval = FALSE)
-```
 
 
 In this document stand the formulas to calculate the main calculations in the Asset Pricing course
